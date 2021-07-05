@@ -1,27 +1,50 @@
 h1{
     text-align: center;
 }
+h2{
+    color: black;
+    text-align:left;
+    margin: 5%;
+}
 
 p{
     text-align:center;
 }
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: gray;
+    font-size: 17px;
+}
  
 .area3{
     display: flex;
-    margin-top: 5%;
+    margin-top: 1%;
     margin-left: 5%;
     margin-right: 5%;
-
+    
 }
 .box
 {
-    border-radius: 10px;
-    box-shadow: 5px 7px 40px rgb(241, 8, 8);
-    height: 80%;
+    border-radius: 50px;
+    box-shadow: -1px 6px 13px 0px rgba(0,0,0,0.44);
+    height: 100%;
+    width: 50%;
     border-radius: 25px;
-    margin: 5px;
+    margin:30px;
 
 }
+
 .imgpad{
-    padding-left: 20px;
+    padding-left:20px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.ptag
+{
+    margin: 5%;
+    text-align: justify;
+    margin-bottom: 10%;
+    color: black;
 }
