@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align:center;
+}
+ 
+.area3{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.box
+{
+    border-radius: 10px;
+    box-shadow: 5px 7px 40px rgb(241, 8, 8);
+    height: 80%;
+    border-radius: 25px;
+    margin: 5px;
+
+}
+.imgpad{
+    padding-left: 20px;
+}
